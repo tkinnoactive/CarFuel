@@ -1,0 +1,15 @@
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\bin\Debug\CarFuel.DataAccess.dll.config
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\bin\Debug\CarFuel.DataAccess.dll
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\bin\Debug\CarFuel.DataAccess.pdb
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\bin\Debug\CarFuel.Models.dll
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\bin\Debug\EntityFramework.dll
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\bin\Debug\CarFuel.Models.pdb
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\bin\Debug\EntityFramework.xml
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\obj\Debug\CarFuel.DataAccess.csprojResolveAssemblyReference.cache
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\obj\Debug\CarFuel.DataAccess.dll
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\obj\Debug\CarFuel.DataAccess.pdb
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\obj\Debug\CarFuel.DataAccess.Migrations.InitialCreate.resources
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\obj\Debug\CarFuel.DataAccess.csproj.GenerateResource.Cache
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.DataAccess\obj\Debug\CarFuel.DataAccess.Migrations.Carrequiresowner.resources

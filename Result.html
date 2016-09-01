@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html>
+  <head>
+    <title>xUnit.net Test Results</title>
+    <style type="text/css">
+          body { font-family: Calibri, Verdana, Arial, sans-serif; background-color: White; color: Black; }
+          h2,h3,h4,h5 { margin: 0; padding: 0; }
+          h3 { font-weight: normal; }
+          h4 { margin: 0.5em 0; }
+          h5 { font-weight: normal; font-style: italic; margin-bottom: 0.75em; }
+          h6 { font-size: 0.9em; font-weight: bold; margin: 0.5em 0 0 0.75em; padding: 0; }
+          pre,table { font-family: Consolas; font-size: 0.8em; margin: 0 0 0 1em; padding: 0; }
+          table { padding-bottom: 0.25em; }
+          th { padding: 0 0.5em; border-right: 1px solid #bbb; text-align: left; }
+          td { padding-left: 0.5em; }
+          .divided { border-top: solid 1px #f0f5fa; padding-top: 0.5em; }
+          .row, .altrow { padding: 0.1em 0.3em; }
+          .row { background-color: #f0f5fa; }
+          .altrow { background-color: #e1ebf4; }
+          .success, .failure, .skipped { font-family: Arial Unicode MS; font-weight: normal; float: left; width: 1em; display: block; }
+          .success { color: #0c0; }
+          .failure { color: #c00; }
+          .skipped { color: #cc0; }
+          .timing { float: right; }
+          .indent { margin: 0.25em 0 0.5em 2em; }
+          .clickable { cursor: pointer; }
+          .testcount { font-size: 85%; }
+        </style>
+    <script language="javascript">
+          function ToggleClass(id) {
+            var elem = document.getElementById(id);
+            if (elem.style.display == "none") {
+              elem.style.display = "block";
+            }
+            else {
+              elem.style.display = "none";
+            }
+          }
+        </script>
+  </head>
+  <body>
+    <h3 class="divided">
+      <b>Assemblies Run</b>
+    </h3>
+    <div>E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Tests\bin\Debug\CarFuel.Tests.DLL</div>
+    <h3 class="divided">
+      <b>Summary</b>
+    </h3>
+    <div>
+          Tests run: <a href="#all"><b>14</b></a>  
+          
+          Run time: <b>0.637s</b></div>
+    <br />
+    <h2>
+      <a id="all" />All tests
+        </h2>
+    <h5>Click test class name to expand/collapse test details</h5>
+    <h3>
+      <span class="timing">0.048s
+            </span>
+      <span class="clickable" onclick="ToggleClass('classID0EYB')" ondblclick="ToggleClass('classID0EYB')">
+        <span class="success">✔</span>
+               CarFuel.Tests.Models.CarTest+AddFillUpMethod
+               <span class="testcount">
+                (3 tests)
+              </span></span>
+      <br clear="all" />
+    </h3>
+    <div class="indent" style="display: none;" id="classID0EYB">
+      <div class="row">
+        <span class="timing">0.0458379s
+        </span>
+        <span class="success">✔</span>
+       AddFirstFillUp<br clear="all" /></div>
+      <div class="altrow">
+        <span class="timing">0.0003647s
+        </span>
+        <span class="success">✔</span>
+       AddThreeFillUps<br clear="all" /><h6>Output:</h6><pre>Car: My Accord
+001000 20.00 L. 40.00 Km/L.
+002000 25.00 L. 12.50 Km/L.
+002500 40.00 L.  Km/L.
+</pre></div>
+      <div class="row">
+        <span class="timing">0.0020131s
+        </span>
+        <span class="success">✔</span>
+       AddTwoFillUps<br clear="all" /><h6>Output:</h6><pre>Car: My Ford
+001000 20.00 L. 40.00 Km/L.
+002000 25.00 L.  Km/L.
+</pre></div>
+    </div>
+    <h3>
+      <span class="timing">0.044s
+            </span>
+      <span class="clickable" onclick="ToggleClass('classID0ETC')" ondblclick="ToggleClass('classID0ETC')">
+        <span class="success">✔</span>
+               CarFuel.Tests.Models.CarTest+AverageKmLProperty
+               <span class="testcount">
+                (4 tests)
+              </span></span>
+      <br clear="all" />
+    </h3>
+    <div class="indent" style="display: none;" id="classID0ETC">
+      <div class="row">
+        <span class="timing">0.0002064s
+        </span>
+        <span class="success">✔</span>
+       NoFillUp_NoValue<br clear="all" /></div>
+      <div class="altrow">
+        <span class="timing">0.0349161s
+        </span>
+        <span class="success">✔</span>
+       OneFillUp_NoValue<br clear="all" /></div>
+      <div class="row">
+        <span class="timing">0.0044243s
+        </span>
+        <span class="success">✔</span>
+       ThreeFillUps<br clear="all" /></div>
+      <div class="altrow">
+        <span class="timing">0.0040608s
+        </span>
+        <span class="success">✔</span>
+       TwoFillUp_SameAsKmLOfFirstFillUp<br clear="all" /></div>
+    </div>
+    <h3>
+      <span class="timing">0.035s
+            </span>
+      <span class="clickable" onclick="ToggleClass('classID0ELB')" ondblclick="ToggleClass('classID0ELB')">
+        <span class="success">✔</span>
+               CarFuel.Tests.Models.CarTest+General
+               <span class="testcount">
+                (1 test)
+              </span></span>
+      <br clear="all" />
+    </h3>
+    <div class="indent" style="display: none;" id="classID0ELB">
+      <div class="row">
+        <span class="timing">0.0352912s
+        </span>
+        <span class="success">✔</span>
+       InitialValues<br clear="all" /></div>
+    </div>
+    <h3>
+      <span class="timing">0.045s
+            </span>
+      <span class="clickable" onclick="ToggleClass('classID0ESD')" ondblclick="ToggleClass('classID0ESD')">
+        <span class="success">✔</span>
+               CarFuel.Tests.Models.FillUpTest+KmLProperty
+               <span class="testcount">
+                (4 tests)
+              </span></span>
+      <br clear="all" />
+    </h3>
+    <div class="indent" style="display: none;" id="classID0ESD">
+      <div class="row">
+        <span class="timing">0.0002723s
+        </span>
+        <span class="success">✔</span>
+       NewFillUpDontHasKmL<br clear="all" /></div>
+      <div class="altrow">
+        <span class="timing">0.0015079s
+        </span>
+        <span class="success">✔</span>
+       OdometerMustGreaterThanThePreviousFillUp<br clear="all" /></div>
+      <div class="row">
+        <span class="timing">0.0433114s
+        </span>
+        <span class="success">✔</span>
+       TwoFillUpsCanCalculateKmL(odo1: 1000, liters1: 40, odo2: 2000, liters2: 50, expectedKmL: 20)<br clear="all" /></div>
+      <div class="altrow">
+        <span class="timing">0.0000342s
+        </span>
+        <span class="success">✔</span>
+       TwoFillUpsCanCalculateKmL(odo1: 2000, liters1: 50, odo2: 2500, liters2: 20, expectedKmL: 25)<br clear="all" /></div>
+    </div>
+    <h3>
+      <span class="timing">0.535s
+            </span>
+      <span class="clickable" onclick="ToggleClass('classID0EY')" ondblclick="ToggleClass('classID0EY')">
+        <span class="success">✔</span>
+               CarFuel.Tests.Services.CarServiceTest+AddMethodWithMoq
+               <span class="testcount">
+                (2 tests)
+              </span></span>
+      <br clear="all" />
+    </h3>
+    <div class="indent" style="display: none;" id="classID0EY">
+      <div class="row">
+        <span class="timing">0.0065485s
+        </span>
+        <span class="success">✔</span>
+       AddFirstCar_Success<br clear="all" /></div>
+      <div class="altrow">
+        <span class="timing">0.5285369s
+        </span>
+        <span class="success">✔</span>
+       AddTwoCarsWithDupName_Failed<br clear="all" /></div>
+    </div>
+  </body>
+</html>

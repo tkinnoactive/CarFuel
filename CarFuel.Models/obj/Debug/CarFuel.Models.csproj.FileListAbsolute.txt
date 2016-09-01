@@ -1,0 +1,4 @@
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Models\bin\Debug\CarFuel.Models.dll
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Models\bin\Debug\CarFuel.Models.pdb
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Models\obj\Debug\CarFuel.Models.dll
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Models\obj\Debug\CarFuel.Models.pdb

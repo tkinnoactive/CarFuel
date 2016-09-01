@@ -1,0 +1,11 @@
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Services\bin\Debug\CarFuel.Services.dll
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Services\bin\Debug\CarFuel.Services.pdb
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Services\bin\Debug\CarFuel.DataAccess.dll
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Services\bin\Debug\CarFuel.Models.dll
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Services\bin\Debug\EntityFramework.dll
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Services\bin\Debug\CarFuel.DataAccess.pdb
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Services\bin\Debug\CarFuel.Models.pdb
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Services\bin\Debug\EntityFramework.xml
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Services\obj\Debug\CarFuel.Services.csprojResolveAssemblyReference.cache
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Services\obj\Debug\CarFuel.Services.dll
+E:\Work_IS\Source Code\_Training\TDD2016\CarFuel\CarFuel.Services\obj\Debug\CarFuel.Services.pdb
